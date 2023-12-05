@@ -6,3 +6,6 @@ function toggleSidebar() {
 function closeSidebar() {
   document.getElementById('sidebar').style.width = '0';
 }
+
+
+  
