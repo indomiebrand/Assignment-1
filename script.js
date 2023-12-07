@@ -3,9 +3,8 @@ function toggleSidebar() {
   sidebar.style.width = sidebar.style.width === '250px' ? '0' : '250px';
 }
 
+
 function closeSidebar() {
   document.getElementById('sidebar').style.width = '0';
 }
 
-
-  
